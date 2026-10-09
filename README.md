@@ -1,6 +1,7 @@
 # news-system
 Multi-source cross-border e-commerce public opinion and competitive product dynamics backend system
 # News Headline Backend
+<img width="1041" height="1274" alt="image" src="https://github.com/user-attachments/assets/fc63bb0a-07e6-4630-b336-acbee2101bad" />
 
 新闻资讯应用后端服务，基于 FastAPI 框架开发，提供新闻浏览、用户认证、收藏管理和浏览历史等功能。采用前后端分离架构，前端（Vue/React）通过 RESTful API 与本服务交互。
 
